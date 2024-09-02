@@ -1,0 +1,17 @@
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\obj\Debug\net8.0\FirstWebServiceBusiness.csproj.AssemblyReference.cache
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\obj\Debug\net8.0\FirstWebServiceBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\obj\Debug\net8.0\FirstWebServiceBusiness.AssemblyInfoInputs.cache
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\obj\Debug\net8.0\FirstWebServiceBusiness.AssemblyInfo.cs
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\obj\Debug\net8.0\FirstWebServiceBusiness.csproj.CoreCompileInputs.cache
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\bin\Debug\net8.0\FirstWebServiceBusiness.deps.json
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\bin\Debug\net8.0\FirstWebServiceBusiness.dll
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\bin\Debug\net8.0\FirstWebServiceBusiness.pdb
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\bin\Debug\net8.0\FirstWebServiceData.dll
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\bin\Debug\net8.0\FirstWebServiceData.pdb
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\obj\Debug\net8.0\FirstWeb.743740F1.Up2Date
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\obj\Debug\net8.0\FirstWebServiceBusiness.dll
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\obj\Debug\net8.0\refint\FirstWebServiceBusiness.dll
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\obj\Debug\net8.0\FirstWebServiceBusiness.pdb
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\obj\Debug\net8.0\ref\FirstWebServiceBusiness.dll
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\bin\Debug\net8.0\FirstWebServiceMessaging.dll
+C:\Users\yusuu\source\repos\TheFirstWebService\FirstWebServiceBusiness\bin\Debug\net8.0\FirstWebServiceMessaging.pdb

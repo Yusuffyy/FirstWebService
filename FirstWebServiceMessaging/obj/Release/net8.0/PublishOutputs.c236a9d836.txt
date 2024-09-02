@@ -1,0 +1,12 @@
+C:\Users\yusuu\Desktop\FirstWebServiceMessaging.dll
+C:\Users\yusuu\Desktop\FirstWebServiceMessaging.deps.json
+C:\Users\yusuu\Desktop\FirstWebServiceMessaging.pdb
+C:\Users\yusuu\Desktop\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yusuu\Desktop\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yusuu\Desktop\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\yusuu\Desktop\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\yusuu\Desktop\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\yusuu\Desktop\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yusuu\Desktop\Microsoft.Extensions.Options.dll
+C:\Users\yusuu\Desktop\Microsoft.Extensions.Primitives.dll
+C:\Users\yusuu\Desktop\RabbitMQ.Client.dll

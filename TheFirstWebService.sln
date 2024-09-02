@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheFirstWebService", "TheFirstWebService\TheFirstWebService.csproj", "{CD112EB9-F42E-4E95-AA99-2B28158C739B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstWebService", "FirstWebServiceBusiness\FirstWebService.csproj", "{F86DCD61-CD58-47FC-8474-DEA5419C43C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstWebServiceData", "FirstWebServiceData\FirstWebServiceData.csproj", "{6117E8F2-3130-4881-89D3-2A1976F900E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstWebServiceMessaging", "FirstWebServiceMessaging\FirstWebServiceMessaging.csproj", "{8AD49AD7-2FF5-4D8B-874A-7EE4C387D5FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App", "App", "{59389562-25AF-4801-8664-844B219780F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{4E890DF3-253F-4103-AE02-86979A02C870}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Schedule", "Schedule", "{ED85E75C-C228-4549-B7F3-53C467D0E784}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{B09CCBC3-0D46-48ED-ADE8-77154BF8EB2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{F35AE3F7-89E3-4F6A-8358-A3BAB8771C54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Consumers", "Consumers", "{A3947834-AEE8-4350-ABA4-FD98CF2F2B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD112EB9-F42E-4E95-AA99-2B28158C739B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD112EB9-F42E-4E95-AA99-2B28158C739B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD112EB9-F42E-4E95-AA99-2B28158C739B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD112EB9-F42E-4E95-AA99-2B28158C739B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86DCD61-CD58-47FC-8474-DEA5419C43C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86DCD61-CD58-47FC-8474-DEA5419C43C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86DCD61-CD58-47FC-8474-DEA5419C43C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86DCD61-CD58-47FC-8474-DEA5419C43C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6117E8F2-3130-4881-89D3-2A1976F900E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6117E8F2-3130-4881-89D3-2A1976F900E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6117E8F2-3130-4881-89D3-2A1976F900E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6117E8F2-3130-4881-89D3-2A1976F900E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AD49AD7-2FF5-4D8B-874A-7EE4C387D5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD49AD7-2FF5-4D8B-874A-7EE4C387D5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD49AD7-2FF5-4D8B-874A-7EE4C387D5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD49AD7-2FF5-4D8B-874A-7EE4C387D5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD112EB9-F42E-4E95-AA99-2B28158C739B} = {59389562-25AF-4801-8664-844B219780F1}
+		{F86DCD61-CD58-47FC-8474-DEA5419C43C0} = {F35AE3F7-89E3-4F6A-8358-A3BAB8771C54}
+		{6117E8F2-3130-4881-89D3-2A1976F900E8} = {4E890DF3-253F-4103-AE02-86979A02C870}
+		{8AD49AD7-2FF5-4D8B-874A-7EE4C387D5FC} = {A3947834-AEE8-4350-ABA4-FD98CF2F2B51}
+		{A3947834-AEE8-4350-ABA4-FD98CF2F2B51} = {ED85E75C-C228-4549-B7F3-53C467D0E784}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F2118C4-27B2-4023-AE30-B7ABAA756EDA}
+	EndGlobalSection
+EndGlobal
